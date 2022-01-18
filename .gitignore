@@ -1,0 +1,3 @@
+src/config.json
+*.json
+node_modules/
